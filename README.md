@@ -1,4 +1,4 @@
-# Marketing-Analysis-online-retail-stores-
+![image](https://github.com/user-attachments/assets/34525967-e500-40b1-a6b6-76265c102ae6)# Marketing-Analysis-online-retail-stores-
 **Problem Statement**
 
 An online retail store is trying to understand the various customer purchase patterns for their firm, you are required to give enough evidence-based insights to provide the same.
@@ -51,7 +51,8 @@ The easiest is to calculate the M-monetary value. We will be using the Total Amo
 ![image](https://github.com/user-attachments/assets/9710f2f2-4561-49fd-8274-a73397a1a3a0)
 
 
-**Remove Outliers**
+
+**Removed Outliers**
 ![image](https://github.com/user-attachments/assets/418a140b-5776-456a-be02-7dcf6b37efa7)
 ![image](https://github.com/user-attachments/assets/9a8a03c9-534e-4f7c-9ae6-4e2cc9c1751c)
 ![image](https://github.com/user-attachments/assets/d6f88d02-ad82-4f17-b290-0c5d8cfd0709)
@@ -99,7 +100,7 @@ Customers with Cluster Id 2 are the customers with high number of transactions a
 
 
 **Inference From the Project:**
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/662f978b-551d-452e-841b-47ecd5958f19)
 
 
 **Customer Types based on RFM Analysis:**
