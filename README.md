@@ -46,8 +46,17 @@ This method considers three key aspects: recency, frequency, and monetary value.
 The easiest is to calculate the M-monetary value. We will be using the Total Amount column that we have created before.
 
 **Outliers**
+![image](https://github.com/user-attachments/assets/e666e31b-970d-4214-babe-aa56921be8ad)
+![image](https://github.com/user-attachments/assets/71345491-4466-4e97-b881-5f761aa647ea)
+![image](https://github.com/user-attachments/assets/9710f2f2-4561-49fd-8274-a73397a1a3a0)
+
 
 **Remove Outliers**
+![image](https://github.com/user-attachments/assets/418a140b-5776-456a-be02-7dcf6b37efa7)
+![image](https://github.com/user-attachments/assets/9a8a03c9-534e-4f7c-9ae6-4e2cc9c1751c)
+![image](https://github.com/user-attachments/assets/d6f88d02-ad82-4f17-b290-0c5d8cfd0709)
+
+
 
 **Choosing the Algorithm for the Project:**
 
@@ -74,6 +83,8 @@ Finding the Optimal Number of Clusters
 A fundamental step for any unsupervised algorithm is to determine the optimal number of clusters into which the data may be clustered. The Elbow Method is one of the most popular methods to determine this optimal value of k.
 
 Elbow Curve to get the right number of Clusters
+![image](https://github.com/user-attachments/assets/4d187abe-5227-462b-ae56-23f513d860ef)
+
 
 **Model Evaluation and Technique:**
 
@@ -82,8 +93,14 @@ Machine learning models can be used to analyse online retail data in order to ga
 K-Means Clustering with 3 Cluster Ids
 
 Customers with Cluster Id 2 are the customers with high number of transactions as compared to other customers. Customers with Cluster Id 2 are frequent buyers. Customers with Cluster Id 0 are not recent buyers and hence least of importance from business point of view.
+![image](https://github.com/user-attachments/assets/46af5d65-4eb7-44b1-b57a-56e99f43e073)
+![image](https://github.com/user-attachments/assets/8a1daba4-37b6-4025-85dd-a69a8bb430fc)
+![image](https://github.com/user-attachments/assets/4cac1382-60ef-4813-8bea-f3358ca02f9a)
+
 
 **Inference From the Project:**
+![Uploading image.png…]()
+
 
 **Customer Types based on RFM Analysis:**
 
