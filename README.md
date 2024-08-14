@@ -46,15 +46,21 @@ This method considers three key aspects: recency, frequency, and monetary value.
 The easiest is to calculate the M-monetary value. We will be using the Total Amount column that we have created before.
 
 **Outliers**
+
 ![image](https://github.com/user-attachments/assets/e666e31b-970d-4214-babe-aa56921be8ad)
+
 ![image](https://github.com/user-attachments/assets/71345491-4466-4e97-b881-5f761aa647ea)
+
 ![image](https://github.com/user-attachments/assets/9710f2f2-4561-49fd-8274-a73397a1a3a0)
 
 
 
 **Removed Outliers**
+
 ![image](https://github.com/user-attachments/assets/418a140b-5776-456a-be02-7dcf6b37efa7)
+
 ![image](https://github.com/user-attachments/assets/9a8a03c9-534e-4f7c-9ae6-4e2cc9c1751c)
+
 ![image](https://github.com/user-attachments/assets/d6f88d02-ad82-4f17-b290-0c5d8cfd0709)
 
 
@@ -99,7 +105,9 @@ Customers with Cluster Id 2 are the customers with high number of transactions a
 ![image](https://github.com/user-attachments/assets/4cac1382-60ef-4813-8bea-f3358ca02f9a)
 
 
+
 **Inference From the Project:**
+
 ![image](https://github.com/user-attachments/assets/662f978b-551d-452e-841b-47ecd5958f19)
 
 
